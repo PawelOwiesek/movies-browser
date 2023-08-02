@@ -1,11 +1,12 @@
 # Movies-Browser
+![image](https://github.com/PawelOwiesek/movies-browser/assets/121549413/c48d1be2-7110-4532-8851-40afa61aa4d3)
 
 ## Demo
 [See Movies Browser](https://www.movies-browser.nl)   
 
 ## Contributors:
 This is a group project co-created with:
-- [Mirek Sobota](https://github.com/MirekSobota))
+- [Mirek Sobota](https://github.com/MirekSobota)
 - [Pawel Owiesek](https://github.com/PawelOwiesek)
 - [Dorota Zielinska](https://github.com/DorotaZielinska)
 
